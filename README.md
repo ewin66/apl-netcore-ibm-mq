@@ -249,7 +249,7 @@ finally
 ### Producer
 Exemplo abaixo ilustrando a aplicação enviando uma mensagem para o IBM MQ.
 
-![image](images/mg_test_producer.PNG)
+![image](images/img_test_producer.PNG)
 
 ### Consumer
 
