@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3HSbDalei1n3cGftczTo2IfAZlcV3ZiRFqWmz0H34Bw4aGysaU2Efsnyz4ccrvnvsHz+bmg21eEQMQbYtjTBCg==",
+  "success": true,
+  "projectFilePath": "/Users/walterrx/Desktop/POCs/apl-netcore-ibm-mq/apl-back-dotnet-mq-ref/apl-back-dotnet-mq-ref.csproj",
+  "expectedPackageFiles": [
+    "/Users/walterrx/.nuget/packages/ibmmqdotnetclient/9.1.5/ibmmqdotnetclient.9.1.5.nupkg.sha512",
+    "/Users/walterrx/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.0/microsoft.aspnetcore.jsonpatch.3.1.0.nupkg.sha512",
+    "/Users/walterrx/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.1.0/microsoft.aspnetcore.mvc.newtonsoftjson.3.1.0.nupkg.sha512",
+    "/Users/walterrx/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/walterrx/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/walterrx/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
