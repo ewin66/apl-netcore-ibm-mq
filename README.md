@@ -249,13 +249,13 @@ finally
 ### Producer
 Exemplo abaixo ilustrando a aplicação enviando uma mensagem para o IBM MQ.
 
-![image](images/img_test_producer.png)
+![image](images/mg_test_producer.PNG)
 
 ### Consumer
 
 Exemplo abaixo ilustrando a aplicação consumindo uma mensagem do IBM MQ.
 
-![image](images/img_test_consumer.png)
+![image](images/img_test_consumer.PNG)
 
 
 ### Dockerfile
