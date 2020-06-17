@@ -7,7 +7,6 @@ Esta aplicação de teste com NetCore 3.1, tem a finalidade de expor uma API RES
 - [Pré Requisitos](#pre-requisitos)
 - [Casos de Uso](#casos-de-uso)
 - [Trade Offs](#trade-offs)
-- [Código Fonte Referência utilizado na PoC](#Código-Fonte-Referência-utilizado-na-PoC)
 - [Configurando sua Aplicação](#configurando-sua-aplicação)
   - [Inclusão do Pacote IBMMQDotnetClient no NuGet](#inclusão-do-pacote-ibmdotnetclient-no-nuget)
   - [Inclusão das propriedades do MQ no arquivo "app.settings.json"](#Inclusão-das-propriedades-do-MQ-no-arquivo-"app.settings.json")
@@ -19,8 +18,7 @@ Esta aplicação de teste com NetCore 3.1, tem a finalidade de expor uma API RES
   - [Consumer](#consumer)
 - [Configuração do DevOps do Projeto](#Configuração-do-DevOps-do-Projeto)
   - [Arquivo Dockerfile](#dockerfile)
-  - [Esteiras de Referência * Aplicável somente a equipe DevOps](#esteiras-de-referência)
-- [Possíveis Problemas](#possíveis-problemas)
+  
 
 ## Pré Requisitos
 
